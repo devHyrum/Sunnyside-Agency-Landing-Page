@@ -6,7 +6,7 @@ Este proyecto es una página web de landing page completamente responsiva desarr
 
 ## Descripción
 
-La landing page de Sunnyside Agency está diseñada para ser una representación visual atractiva y moderna de los servicios de una agencia creativa. Incluye secciones para la introducción, servicios, testimonios de clientes, una galería de trabajos anteriores y un pie de página con enlaces a redes sociales.
+La landing page de Sunnyside Agency está diseñada para ser una representación visual atractiva y moderna de los servicios de una agencia creativa. Incluye secciones para la introducción, servicios, testimonios de clientes, una galería de trabajos anteriores y un pie de página con enlaces a redes sociales.Design foi extraído de **[Frontend Mentor](https://www.frontendmentor.io/challenges/agency-landing-page-7yVs3B6ef)**
 
 ## Características
 
@@ -20,6 +20,7 @@ La landing page de Sunnyside Agency está diseñada para ser una representación
 - **React:** Librería de JavaScript para construir interfaces de usuario.
 - **TailwindCSS:** Framework de CSS para estilización.
 - **Google Fonts:** Para tipografía personalizada.
+- **Fronted Mentor:** Para seguir o design proposto
 
 ## Instalación
 
